@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/Roboto/Roboto-Medium.ttf') format(truetype);
+}
+
+/* General styles */
+body {
+  font-family: 'Roboto';
+}
+
+/* Header styles */
+
+.logo {}
+
+.menu-list {}
+
+
+/* First screen */
